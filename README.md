@@ -8,7 +8,7 @@
 
 1. Clone the repository
 2. Rename the folder to `qb-inventory`
-3. replace the script
+3. replace the script with your exiting inventory
 
 
 ### Showcase

@@ -2,7 +2,7 @@
 
 ## Our links
 - [Discord](https://discord.gg/QK9bFRzEvp)
-
+- [Support](https://discord.gg/QK9bFRzEvp)
 ### How to use?
 
 1. Clone the repository

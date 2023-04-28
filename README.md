@@ -11,4 +11,4 @@
 
 
 ### Showcase
-![Video Preview](https://youtu.be/pwCmCkUnWZo)
+https://youtu.be/pwCmCkUnWZo
